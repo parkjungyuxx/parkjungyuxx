@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=&fontSize=50)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&width=435&lines=Hello!+I'm+Jungyu.)](https://git.io/typing-svg)
 
-## ABOUT ME
-- 🌱 I'm currently learning **TypeScript, JavaScript, Next.js, React**
-- 💬 I value **communication** and **user experience** as a developer
-- 🚀 Always curious about **new web technologies** and striving to grow
+```
+https://mickylog.vercel.app/
+```
 
 <h2> Tech Stack </h2>
 <table>
